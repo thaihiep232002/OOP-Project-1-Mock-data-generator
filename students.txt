@@ -1,0 +1,80 @@
+Student: 2127831 - Tran Huu Minh
+    GPA=7.30, Telephone=0909-888-773
+    Email=thminh@student.hcmus.edu.vn
+    DOB=17/12/2003
+    Address=8 Nguyen Dinh Chieu, Ward 5, District 3, Ho Chi Minh city
+Student: 2127832 - Nguyen Dieu Linh
+    GPA=9.22, Telephone=0912-351-718
+    Email=thminh@student.hcmus.edu.vn
+    DOB=23/09/2003
+    Address=22 Ngo Thoi Nhiem, Ward 2, District 1, Ho Chi Minh city 
+Student: 2127833 - Ngo Thoi Chanh
+    GPA=8.12, Telephone=0977-161-237
+    Email=ntchanh@student.hcmus.edu.vn
+    DOB=12/06/2003
+    Address=8 Binh Long, Binh Hung Hoa Ward, Bin Tan District, Ho Chi Minh city
+Student: 2127832 - Nguyen Dieu Hiep
+    GPA=4.22, Telephone=0912-351-111
+    Email=ndla@student.hcmus.edu.vn
+    DOB=13/09/2003
+    Address=22 Ngo Quyen, Ward 5, District 2, Nghe An city
+Student: 2127833 - Ngo Kha Banh
+    GPA=8.12, Telephone=0977-161-237
+    Email=nkbanh@student.hcmus.edu.vn
+    DOB=12/06/2003
+    Address=3 Binh Long, Nguyen Thai Hiep Ward, Bin Tan District, Can Tho city
+Student: 2127834 - Tran Huu Loc
+    GPA=2.00, Telephone=0909-888-773
+    Email=thloc@student.hcmus.edu.vn
+    DOB=17/10/2003
+    Address=233 My Phung, Ward 9, District 3, Quang Ngai city
+Student: 2127835 - Nguyen Dieu Dieu
+    GPA=9.22, Telephone=0912-351-723
+    Email=nddieu@student.hcmus.edu.vn
+    DOB=23/09/2003
+    Address=12 Hoang Anh Ma, Ward 2, District 1, Binh Phuoc city
+Student: 2127836 - Ngo Dieu Thuyen
+    GPA=10.00, Telephone=0977-161-266
+    Email=ndthuyen@student.hcmus.edu.vn
+    DOB=12/06/2003
+    Address=99 Binh Long, Le Chieu Toan Ward, Bin Tan District, Hue city
+Student: 2127837 - Tran Chu Thuong
+    GPA=7.50, Telephone=0909-888-423
+    Email=tcthuong@student.hcmus.edu.vn
+    DOB=30/12/2003
+    Address=100 Phan Tuan Khai, Ward 5, District 3, Ho Chi Minh city
+Student: 2127838 - Nguyen An Duong
+    GPA=9.22, Telephone=0912-351-646
+    Email=naduong@student.hcmus.edu.vn
+    DOB=23/08/2003
+    Address=22 Phuoc Nhu, Ward 2, District 1, Ho Chi Minh city
+Student: 2127832 - Nguyen Dieu Hiep
+    GPA=4.22, Telephone=0912-351-111
+    Email=ndla@student.hcmus.edu.vn
+    DOB=13/09/2003
+    Address=22 Ngo Quyen, Ward 5, District 2, Nghe An city
+Student: 2127833 - Ngo Kha Banh
+    GPA=8.12, Telephone=0977-161-237
+    Email=nkbanh@student.hcmus.edu.vn
+    DOB=12/06/2003
+    Address=3 Binh Long, Nguyen Thai Hiep Ward, Bin Tan District, Can Tho city
+Student: 2127834 - Tran Huu Loc
+    GPA=2.00, Telephone=0909-888-773
+    Email=thloc@student.hcmus.edu.vn
+    DOB=17/10/2003
+    Address=233 My Phung, Ward 9, District 3, Quang Ngai city
+Student: 2127835 - Nguyen Dieu Dieu
+    GPA=9.22, Telephone=0912-351-723
+    Email=nddieu@student.hcmus.edu.vn
+    DOB=23/09/2003
+    Address=12 Hoang Anh Ma, Ward 2, District 1, Binh Phuoc city
+Student: 2127836 - Ngo Dieu Thuyen
+    GPA=10.00, Telephone=0977-161-266
+    Email=ndthuyen@student.hcmus.edu.vn
+    DOB=12/06/2003
+    Address=99 Binh Long, Le Chieu Toan Ward, Bin Tan District, Hue city
+Student: 2127837 - Tran Chu Thuong
+    GPA=7.50, Telephone=0909-888-423
+    Email=tcthuong@student.hcmus.edu.vn
+    DOB=30/12/2003
+    Address=100 Phan Tuan Khai, Ward 5, District 3, Ho Chi Minh city
